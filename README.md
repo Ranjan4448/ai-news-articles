@@ -1,1 +1,2 @@
-# ai-news-articles
+# zeitgeist-aimodel
+Article Summarisation
